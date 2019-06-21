@@ -1,1 +1,0 @@
-const someReact = <div>Goodbye world</div>;
