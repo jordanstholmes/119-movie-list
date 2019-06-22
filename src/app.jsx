@@ -22,7 +22,7 @@ class App extends React.Component {
   handleChange(event) {
     const inputText = event.target.value;
     this.setState({ inputText });
-  }
+  } // I am trivial
 
   render() {
     console.log(this.state.inputText);
